@@ -1,0 +1,32 @@
+{
+  "name": "async_await_demo",
+  "version": "1.0.0",
+  "description": "ES7 async await demo",
+  "main": "async_await.js",
+  "scripts": {
+    "start" : "node bootstrap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeRedBo/ES7_Async_Await_Demo.git"
+  },
+  "keywords": [
+    "\"ES7",
+    "async",
+    "await\""
+  ],
+  "author": "RedBo He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeRedBo/ES7_Async_Await_Demo/issues"
+  },
+  "homepage": "https://github.com/HeRedBo/ES7_Async_Await_Demo#readme",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-polyfill": "^6.22.0",
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-preset-stage-3": "^6.22.0",
+    "request": "^2.79.0"
+  }
+}
