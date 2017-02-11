@@ -1,5 +1,5 @@
 # ES7_Async_Await_Demo
-基于babel7的ES7特性，理解 ES7 async_await 异步解决方法
+基于babel6的ES7特性，理解 ES7 async_await 异步解决方法
 
 ## 有2个DEMO
 
